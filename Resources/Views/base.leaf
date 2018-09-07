@@ -17,7 +17,7 @@
 <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
 
 <!-- Custom styles for this template -->
-<link rel="stylesheet" href="Public/styles/app.css">
+<link rel="stylesheet" href="../styles/app.css">
 
 <title>Mitali Kulkarni | #(title)</title>
 </head>

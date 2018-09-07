@@ -1,0 +1,54 @@
+
+#set("content") {
+<div class="my-auto">
+<h2 class="mb-5">Experience</h2>
+
+    <div class="resume-item d-flex flex-column flex-md-row mb-5">
+        <div class="resume-content mr-auto">
+            <h3 class="mb-0">Mobile Developer Intern</h3>
+            <div class="subheading mb-3">American Family Insurance
+            </div>
+            <p>Implemented Siri Kit Extension to allow users to make payment using Siri in the American Family iOS application. Developed a structure that aggregates multiple APIs to display the billing and payment information and schedules the payment for the user. Explored Siri Shortcuts</p>
+        </div>
+        <div class="resume-date text-md-right">
+            <span class="text-primary">May 2018 - August 2018</span>
+        </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row mb-5">
+        <div class="resume-content mr-auto">
+            <h3 class="mb-0">Senior Software Engineer</h3>
+            <div class="subheading mb-3">Rakuten</div>
+            <p>Architected the web service and developed batch files in PHP. Played a key role in developing, launching, and enhancing entire iOS app using Swift. Coordinated implementation of the iOS application, collaborated with project managers and design teams to ensure on-time completion of project deliverables. Implemented features such as 3D Touch, peek and pop for enhancing the user experience of the iOS application. Analysed data from Fabric and server logs in order to find the bugs and fix them in a short time. Supported new graduates understand working culture, existing system and get them onboard quickly</p>
+        </div>
+        <div class="resume-date text-md-right">
+            <span class="text-primary">July 2016 – June 2017</span>
+        </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row mb-5">
+        <div class="resume-content mr-auto">
+            <h3 class="mb-0">Software Engineer</h3>
+            <div class="subheading mb-3">Rakuten</div>
+            <p>Developed iOS apps for Rakuten Keiba. Added new features from scratch for displaying Horse racing information. Developed PHP Email Script for sending push notifications.
+            </p>
+        </div>
+        <div class="resume-date text-md-right">
+            <span class="text-primary">October 2014 – June 2016</span>
+        </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+        <div class="resume-content mr-auto">
+            <h3 class="mb-0">Student Intern</h3>
+            <div class="subheading mb-3">Symantec</div>
+            <p>Designed and developed application to detect Component Object Model (COM) object leaks. Developed code parser using regular expression to handle all possible syntaxes. Provided a list of COM objects which are no longer referenced but are still in memory.</p>
+        </div>
+        <div class="resume-date text-md-right">
+            <span class="text-primary">August 2013 - April 2014</span>
+        </div>
+    </div>
+
+</div>
+}
+#embed("base")

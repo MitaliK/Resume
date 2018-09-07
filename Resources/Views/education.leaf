@@ -1,0 +1,32 @@
+
+#set("content") {
+<div class="my-auto">
+<h2 class="mb-5">Education</h2>
+
+    <div class="resume-item d-flex flex-column flex-md-row mb-5">
+        <div class="resume-content mr-auto">
+            <h3 class="mb-0">Arizona State University</h3>
+            <div class="subheading mb-3">Master of Science</div>
+            <div>Software Engineering</div>
+            <p>GPA: 3.56</p>
+        </div>
+        <div class="resume-date text-md-right">
+            <span class="text-primary">August 2017 - May 2019</span>
+        </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+        <div class="resume-content mr-auto">
+            <h3 class="mb-0">Pune Institute of Computer Technology</h3>
+            <div class="subheading mb-3">Bachelor of Engineering</div>
+            <div>Computer Science</div>
+            <p>GPA: 3.31</p>
+        </div>
+        <div class="resume-date text-md-right">
+            <span class="text-primary">June 2010 - June 2014</span>
+        </div>
+    </div>
+
+</div>
+}
+#embed("base")

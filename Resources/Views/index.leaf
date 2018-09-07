@@ -6,13 +6,15 @@
     <div class="subheading mb-5">1255 East University Drive · (480) 656-9277 ·
         <a href="mailto:name@email.com">kulkarnimitali20@gmail.com</a>
     </div>
-    <p class="lead mb-5">I am a graduate student pursuing my Master's of Science in Software Engineering starting from August 2017. My experience involves developing native iPhone apps using Swift.</p>
+    <p class="lead mb-5">I am a graduate student pursuing Master's of Science in Software Engineering starting from August 2017. My experience involves developing native iPhone apps using Swift.</p>
     <div class="social-icons">
+        <!--Linkedin-->
         <a href="https://www.linkedin.com/in/mitaliskulkarni/">
-            <i class="fab fa-linkedin-in"></i>
+            <i class="fa fa-linkedin"></i>
         </a>
+        <!--Github-->
         <a href="https://github.com/MitaliK">
-            <i class="fab fa-github"></i>
+            <i class="fa fa-github"></i>
         </a>
     </div>
 </div>

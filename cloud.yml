@@ -1,0 +1,6 @@
+# Specify Vapor Application
+type: "vapor"
+# Specify swift version to build project
+swift_version: "4.1.0"
+# Specify paramter requirement
+run_parameters: "serve --port 8080 --hostname 0.0.0.0"

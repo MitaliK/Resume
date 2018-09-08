@@ -40,6 +40,22 @@ p.lead {
     font-size: 1.5rem;
 }
 
+.bg-primary {
+    background-color: #BD5D38 !important;
+}
+
+.text-primary {
+    color: #BD5D38 !important;
+}
+
+a {
+    color: #BD5D38;
+}
+
+a:hover, a:focus, a:active {
+    color: #824027;
+}
+
 .social-icons a {
     display: inline-block;
     height: 3.5rem;
